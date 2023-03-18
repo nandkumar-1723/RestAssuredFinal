@@ -1,4 +1,4 @@
-package TESTS.AddAttachment;
+package TESTS;
 
 import Utility.*;
 import io.restassured.*;
@@ -10,6 +10,7 @@ import org.testng.annotations.*;
 import java.io.*;
 import java.util.*;
 
+import static Utility.ReadFile.readConfigFile;
 import static io.restassured.RestAssured.*;
 
 /**
@@ -19,8 +20,8 @@ public class AddAttchament {
     public static String issueNumber;
 
     @Test(priority = 1)
-    public void loginToJira(){
-        RestAssured.baseURI = "http://localhost:8008/";
+    public void loginToJira() throws Exception {
+        RestAssured.baseURI = readConfigFile("URL");
 
         Response response = given().contentType(ContentType.JSON)
                 .header("Cookie", "JSESSIONID="+ LoginJIRA.loginToJira()+"")
@@ -40,19 +41,19 @@ public class AddAttchament {
                 then().extract().response();
 
         System.out.println(response.getStatusCode());
-
         System.out.println(response.asString());
-
         JSONObject js=new JSONObject(response.asString());
-
         issueNumber = js.get("key").toString();
+
+        if (response.getStatusCode()!=201){
+            throw new Exception("expected status code was 201 but found "+response.getStatusCode()+"");
+        }
 
     }
 
     @Test(priority = 2)
-    public void addAttachment(){
-
-        RestAssured.baseURI = "http://localhost:8008/";
+    public void addAttachment() throws Exception {
+        RestAssured.baseURI = readConfigFile("URL");
 
         LinkedHashMap header = new LinkedHashMap();
         header.put("Cookie", "JSESSIONID="+ LoginJIRA.loginToJira()+"");
@@ -68,5 +69,9 @@ public class AddAttchament {
 
         System.out.println(response.getStatusCode());
         System.out.println(response.asString());
+
+        if (response.getStatusCode()!=200){
+            throw new Exception("expected status code was 200 but found "+response.getStatusCode()+"");
+        }
     }
 }

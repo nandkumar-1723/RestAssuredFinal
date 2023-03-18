@@ -5,20 +5,23 @@ import io.restassured.http.*;
 import io.restassured.response.*;
 import org.json.*;
 
+import java.io.*;
+
+import static Utility.ReadFile.readConfigFile;
 import static io.restassured.RestAssured.*;
 /**
  * @author Nandkumar Babar
  */
 public class LoginJIRA {
 
-    public static String loginToJira(){
-        RestAssured.baseURI = "http://localhost:8008/";
+    public static String loginToJira() throws IOException {
+        RestAssured.baseURI = readConfigFile("URL");
 
         Response response = given()
                 .contentType(ContentType.JSON)
                 .body("{\n" +
-                        "    \"username\": \"nandkumar\",\n" +
-                        "    \"password\": \"nandkumar\"\n" +
+                        "    \"username\": \""+readConfigFile("username")+"\",\n" +
+                        "    \"password\": \""+readConfigFile("username")+"\"\n" +
                         "}")
 
                 .when().post("/rest/auth/1/session")

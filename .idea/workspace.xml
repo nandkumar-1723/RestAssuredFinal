@@ -5,52 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Global.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TESTS/Bug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TESTS/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TESTS/UserStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utility/ReadFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TestNG_RestAssuredFramework-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Regression testing on chrome browser/Interview rounds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Regression testing on chrome browser/Interview rounds.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-TESTS.AddAttachment.A_CreateStory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-TESTS.AddAttachment.AddAttchament.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/Interview rounds.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression testing on chrome browser/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/AddAttachment/A_CreateStory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/AddAttachment/AddAttchament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TESTS/AddAttchament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/UserStory/A_CreateStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/UserStory/B_UpdateStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/UserStory/C_GetStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/UserStory/D_DeleteStory.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/AddAttachment/AddAttchament.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory/A_CreateStory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory/B_UpdateStory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory/C_GetStory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory/D_DeleteStory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utility/LoginJIRA.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +61,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.7416378" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/TESTS/bug" />
+      <recent name="$PROJECT_DIR$/src/test/java/TESTS" />
+      <recent name="Bug" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="TESTS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml">
+    <configuration name="AddAttchament" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_RestAssuredFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TESTS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TESTS" />
+      <option name="MAIN_CLASS_NAME" value="TESTS.AddAttchament" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_RestAssuredFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
@@ -109,6 +110,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" />
+        <item itemvalue="TestNG.AddAttchament" />
       </list>
     </recent_temporary>
   </component>

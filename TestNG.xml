@@ -5,7 +5,7 @@
     <test name="Interview rounds" group-by-instances="true">
   
         <packages>
-            <package name="TESTS.AddAttachment"></package>
+            <package name="TESTS"></package>
         </packages>
         
     </test>
