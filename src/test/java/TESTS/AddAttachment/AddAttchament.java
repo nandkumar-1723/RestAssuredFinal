@@ -10,7 +10,6 @@ import org.testng.annotations.*;
 import java.io.*;
 import java.util.*;
 
-import static TESTS.AddAttachment.A_CreateStory.issueNumber;
 import static io.restassured.RestAssured.*;
 
 /**

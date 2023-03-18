@@ -1,7 +1,0 @@
-TESTS/UserStory/C_GetStory.class
-TESTS/UserStory/B_UpdateStory.class
-TESTS/UserStory/A_CreateStory.class
-TESTS/AddAttachment/AddAttchament.class
-TESTS/AddAttachment/A_CreateStory.class
-TESTS/UserStory/D_DeleteStory.class
-Utility/LoginJIRA.class

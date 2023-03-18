@@ -1,7 +1,6 @@
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/AddAttachment/A_CreateStory.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/UserStory/C_GetStory.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/UserStory/B_UpdateStory.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/Utility/LoginJIRA.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/UserStory/D_DeleteStory.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/AddAttachment/AddAttchament.java
-/home/nandkumar/Music/API-Automation/RestAssuredFinal/src/test/java/TESTS/UserStory/A_CreateStory.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/TESTS/UserStory/A_CreateStory.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/TESTS/UserStory/C_GetStory.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/TESTS/AddAttachment/AddAttchament.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/Utility/LoginJIRA.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/TESTS/UserStory/B_UpdateStory.java
+/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/src/test/java/TESTS/UserStory/D_DeleteStory.java
