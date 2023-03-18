@@ -6,7 +6,7 @@ import io.restassured.http.*;
 import io.restassured.response.*;
 import org.testng.annotations.*;
 
-import static TESTS.AddAttachment.A_CreateStory.*;
+import static TESTS.UserStory.A_CreateStory.issueNumber;
 import static io.restassured.RestAssured.*;
 
 /**

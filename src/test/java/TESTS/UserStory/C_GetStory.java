@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 
 import java.util.*;
 
-import static TESTS.AddAttachment.A_CreateStory.*;
+import static TESTS.UserStory.A_CreateStory.issueNumber;
 import static io.restassured.RestAssured.*;
 
 /**
