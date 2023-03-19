@@ -227,12 +227,12 @@
       <module name="TestNG_RestAssuredFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jira_Tests.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TESTS" />
-      <option name="MAIN_CLASS_NAME" value="Jira_Tests.AddAttchament" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddAttchament" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
