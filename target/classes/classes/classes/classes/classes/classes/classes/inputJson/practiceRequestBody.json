@@ -1,0 +1,73 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Student-1",
+      "city": {
+        "current": "Pune",
+        "previous": "Sangola"
+      },
+      "IN": "Arise",
+      "marks": [
+        {
+          "firstMock": 16,
+          "status": "good"
+        },
+        {
+          "secondMock": 12,
+          "status": "Normal"
+        },
+        {
+          "thirdMock": 6,
+          "status": "Avg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Student-2",
+      "city": {
+        "current": "Mumbai",
+        "previous": "Pune"
+      },
+      "IN": "Arise",
+      "marks": [
+        {
+          "firstMock": 19,
+          "status": "good"
+        },
+        {
+          "secondMock": 13,
+          "status": "Normal"
+        },
+        {
+          "thirdMock": 9,
+          "status": "Avg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Student-3",
+      "city": {
+        "current": "sangola",
+        "previous": "benglore"
+      },
+      "IN": "Arise",
+      "marks": [
+        {
+          "firstMock": 18,
+          "status": "good"
+        },
+        {
+          "secondMock": 11,
+          "status": "Normal"
+        },
+        {
+          "thirdMock": 4,
+          "status": "Avg"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     <test name="Interview rounds" group-by-instances="true">
   
         <packages>
-            <package name="TESTS"></package>
+            <package name="Tests"></package>
         </packages>
         
     </test>
