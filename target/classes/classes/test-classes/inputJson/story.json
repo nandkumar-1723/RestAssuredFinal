@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "project": {
+      "key": "AM"
+    },
+    "summary": "Login related",
+    "issuetype": {
+      "name": "Story"
+    }
+  }
+}

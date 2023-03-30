@@ -5,137 +5,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utility/ReadJsonFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/CreateStory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/CreateStoryWithJsonFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonObjectConcept/JsonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/inputJson/story.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Utility/LoginJIRA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Utility/ReadJsonFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Utility/ReadPropFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inputJson/practiceRequestBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inputJson/story.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Basic/CreateStory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Basic/CreateStoryWithJsonFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Global.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/JsonObjectConcept/JsonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ij.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/AddAttchament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Jira_Tests/AddAttchament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/Bug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Jira_Tests/Bug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Jira_Tests/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Jira_Tests/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TESTS/UserStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Jira_Tests/UserStory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/LoginJIRA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utility/LoginJIRA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utility/ReadPropFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Global.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ij.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utility/ReadJsonFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utility/ReadJsonFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utility/ReadJsonFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/ReadJsonFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/test-classes/Global.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inputJson/practiceRequestBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inputJson/story.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/AddAttchament.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TESTS/AddAttchament.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Bug.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TESTS/Bug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TESTS/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TESTS/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utility/LoginJIRA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utility/ReadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JsonObjectConcept/JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JsonObjectConcept/JsonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/AddAttchament.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Bug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TESTS/UserStory.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,11 +167,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/inputJson" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Selenium/Automation-Selenium" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.7416378" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -209,10 +190,10 @@
       <recent name="TESTS" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.JsonObject.loginToJira">
+  <component name="RunManager" selected="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml">
     <configuration name="JsonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JsonObjectConcept.JsonObject" />
-      <module name="TestNG_RestAssuredFramework" />
+      <module name="RestAssuredFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JsonObjectConcept.*" />
@@ -224,7 +205,7 @@
       </method>
     </configuration>
     <configuration name="AddAttchament" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_RestAssuredFramework" />
+      <module name="RestAssuredFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tests.*" />
@@ -241,7 +222,7 @@
       </method>
     </configuration>
     <configuration name="JsonObject.loginToJira" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_RestAssuredFramework" />
+      <module name="RestAssuredFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JsonObjectConcept.*" />
@@ -259,7 +240,7 @@
       </method>
     </configuration>
     <configuration name="/home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_RestAssuredFramework" />
+      <module name="RestAssuredFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
@@ -270,9 +251,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" />
         <item itemvalue="TestNG.JsonObject.loginToJira" />
         <item itemvalue="Application.JsonObject" />
-        <item itemvalue="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" />
         <item itemvalue="TestNG.AddAttchament" />
       </list>
     </recent_temporary>
@@ -306,7 +287,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Jira_Tests/UserStory/C_GetStory.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/UserStory/C_GetStory.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
