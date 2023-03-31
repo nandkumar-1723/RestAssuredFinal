@@ -1,89 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Rest assured test suite" duration-ms="4053" started-at="2023-03-19T11:43:13 IST" finished-at="2023-03-19T11:43:17 IST">
+  <suite name="Rest assured test suite" duration-ms="11" started-at="2023-03-31T15:14:45 IST" finished-at="2023-03-31T15:14:45 IST">
     <groups>
     </groups>
-    <test name="Test cases of rest assured" duration-ms="4053" started-at="2023-03-19T11:43:13 IST" finished-at="2023-03-19T11:43:17 IST">
-      <class name="Tests.Task">
-        <test-method status="PASS" signature="createTask()[pri:1, instance:Tests.Task@57fffcd7]" name="createTask" duration-ms="160" started-at="2023-03-19T11:43:15 IST" finished-at="2023-03-19T11:43:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createTask -->
-        <test-method status="PASS" signature="updateUserStory()[pri:2, instance:Tests.Task@57fffcd7]" name="updateUserStory" duration-ms="69" started-at="2023-03-19T11:43:15 IST" finished-at="2023-03-19T11:43:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- updateUserStory -->
-        <test-method status="PASS" signature="getUserStory()[pri:3, instance:Tests.Task@57fffcd7]" name="getUserStory" duration-ms="60" started-at="2023-03-19T11:43:15 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getUserStory -->
-        <test-method status="PASS" signature="deleteUserStory()[pri:4, instance:Tests.Task@57fffcd7]" name="deleteUserStory" duration-ms="82" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteUserStory -->
-      </class> <!-- Tests.Task -->
-      <class name="Tests.Bug">
-        <test-method status="PASS" signature="createBug()[pri:1, instance:Tests.Bug@14bf9759]" name="createBug" duration-ms="121" started-at="2023-03-19T11:43:17 IST" finished-at="2023-03-19T11:43:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createBug -->
-        <test-method status="PASS" signature="updateUserStory()[pri:2, instance:Tests.Bug@14bf9759]" name="updateUserStory" duration-ms="204" started-at="2023-03-19T11:43:17 IST" finished-at="2023-03-19T11:43:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- updateUserStory -->
-        <test-method status="PASS" signature="getUserStory()[pri:3, instance:Tests.Bug@14bf9759]" name="getUserStory" duration-ms="47" started-at="2023-03-19T11:43:17 IST" finished-at="2023-03-19T11:43:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getUserStory -->
-        <test-method status="PASS" signature="deleteUserStory()[pri:4, instance:Tests.Bug@14bf9759]" name="deleteUserStory" duration-ms="72" started-at="2023-03-19T11:43:17 IST" finished-at="2023-03-19T11:43:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteUserStory -->
-      </class> <!-- Tests.Bug -->
-      <class name="Tests.UserStory">
-        <test-method status="PASS" signature="createStory()[pri:1, instance:Tests.UserStory@598067a5]" name="createStory" duration-ms="229" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createStory -->
-        <test-method status="PASS" signature="updateUserStory()[pri:2, instance:Tests.UserStory@598067a5]" name="updateUserStory" duration-ms="64" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- updateUserStory -->
-        <test-method status="PASS" signature="getUserStory()[pri:3, instance:Tests.UserStory@598067a5]" name="getUserStory" duration-ms="27" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getUserStory -->
-        <test-method status="PASS" signature="deleteUserStory()[pri:4, instance:Tests.UserStory@598067a5]" name="deleteUserStory" duration-ms="48" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteUserStory -->
-      </class> <!-- Tests.UserStory -->
-      <class name="Tests.Comment">
-        <test-method status="PASS" signature="addUserStory()[pri:1, instance:Tests.Comment@4667ae56]" name="addUserStory" duration-ms="2081" started-at="2023-03-19T11:43:13 IST" finished-at="2023-03-19T11:43:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addUserStory -->
-        <test-method status="PASS" signature="postComment()[pri:2, instance:Tests.Comment@4667ae56]" name="postComment" duration-ms="86" started-at="2023-03-19T11:43:15 IST" finished-at="2023-03-19T11:43:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- postComment -->
-        <test-method status="PASS" signature="getComment()[pri:3, instance:Tests.Comment@4667ae56]" name="getComment" duration-ms="101" started-at="2023-03-19T11:43:15 IST" finished-at="2023-03-19T11:43:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getComment -->
-      </class> <!-- Tests.Comment -->
-      <class name="Tests.AddAttchament">
-        <test-method status="PASS" signature="loginToJira()[pri:1, instance:Tests.AddAttchament@3c0ecd4b]" name="loginToJira" duration-ms="221" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:16 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginToJira -->
-        <test-method status="PASS" signature="addAttachment()[pri:2, instance:Tests.AddAttchament@3c0ecd4b]" name="addAttachment" duration-ms="334" started-at="2023-03-19T11:43:16 IST" finished-at="2023-03-19T11:43:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addAttachment -->
-      </class> <!-- Tests.AddAttchament -->
+    <test name="Test cases of rest assured" duration-ms="11" started-at="2023-03-31T15:14:45 IST" finished-at="2023-03-31T15:14:45 IST">
     </test> <!-- Test cases of rest assured -->
   </suite> <!-- Rest assured test suite -->
 </testng-results>

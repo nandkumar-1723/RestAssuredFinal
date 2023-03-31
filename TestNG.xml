@@ -5,7 +5,7 @@
 
     <test name="Test cases of rest assured">
         <packages>
-            <package name="Tests"></package>
+            <package name="ReadExcell.readexcell"></package>
         </packages>
     </test>
 
