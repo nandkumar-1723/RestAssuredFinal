@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="n">
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ReadExcell/readexcell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ReadExcell/readexcell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReadExcell/readexcell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TestNG_RestAssuredFramework-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestNG_RestAssuredFramework-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utility/LoginJIRA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/LoginJIRA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utility/ReadJsonFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/ReadJsonFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utility/ReadPropFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utility/ReadPropFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Rest assured test suite/Test cases of rest assured.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Rest assured test suite/Test cases of rest assured.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Rest assured test suite/Test cases of rest assured.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Rest assured test suite/Test cases of rest assured.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.AddAttchament.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.AddAttchament.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Bug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Bug.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Comment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Comment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Task.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.Task.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.UserStory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Tests.UserStory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Rest assured test suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/CreateStory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Basic/CreateStory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/CreateStoryWithJsonFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Basic/CreateStoryWithJsonFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JsonObjectConcept/JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JsonObjectConcept/JsonObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/AddAttchament.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/AddAttchament.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/Bug.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/Bug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/UserStory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/UserStory.class" afterDir="false" />
-    </list>
+    <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="n" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680256037075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="n">
+      <created>1680256093408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680256093408</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
