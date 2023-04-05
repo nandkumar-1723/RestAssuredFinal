@@ -2,11 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Rest assured test suite">
-
-    <test name="Test cases of rest assured">
+    <test name="Rest assured test cases of JIRA Application">
         <packages>
-            <package name="ReadExcell.readexcell"></package>
+            <package name="Attachment"></package>
+            <package name="Issues_Advanced"></package>
+            <package name="Issues_Basic"></package>
+            <package name="Issues_Standard"></package>
         </packages>
     </test>
-
 </suite>

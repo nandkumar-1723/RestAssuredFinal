@@ -9,10 +9,9 @@ import java.io.*;
  */
 public class ReadJsonFile {
 
-public static String readJsonFile(String jsonFileName) throws IOException, ParseException {
-        JSONParser parser = new JSONParser();
-        FileReader file=new FileReader("src/test/resources/inputJson/"+jsonFileName+".json");
-
-        return parser.parse(file).toString();
+public static String readJsonFile(String jsonFilePath) throws IOException, ParseException {
+    FileReader file=new FileReader(jsonFilePath);
+    JSONParser parser = new JSONParser();
+    return parser.parse(file).toString();
     }
 }
