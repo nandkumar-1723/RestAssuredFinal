@@ -35,11 +35,9 @@ public class AddAttchament {
         System.out.println(response.asString());
 
         JSONObject js =new JSONObject(response.asString());
-
         issueId = js.get("key").toString();
         System.out.println(issueId);
     }
-
 
     @Test(priority = 2)
     public void addAttachment() throws Exception {
@@ -49,7 +47,7 @@ public class AddAttchament {
         header.put("Cookie",GenerateCookie.cookie());
         header.put("X-Atlassian-Token","no-check");
 
-        File file = new File("ariseLOGO.png");
+        File file = new File("src/main/java/Documents/ariseLOGO.png");
 
         Response response = given().contentType(ContentType.MULTIPART)
                 .headers(header)
