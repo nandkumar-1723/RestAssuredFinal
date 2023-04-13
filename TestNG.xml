@@ -4,10 +4,10 @@
 <suite name="Rest assured test suite">
     <test name="Rest assured test cases of JIRA Application">
         <packages>
-            <package name="Attachment"></package>
-            <package name="Issues_Advanced"></package>
-            <package name="Issues_Basic"></package>
-            <package name="Issues_Standard"></package>
+            <package name="A_Issues_Basic"></package>
+            <package name="B_Issues_Standard"></package>
+            <package name="C_Issues_Advanced"></package>
+            <package name="D_Attachment"></package>
         </packages>
     </test>
 </suite>

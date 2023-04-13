@@ -8,11 +8,11 @@ import java.util.*;
  */
 public class ReadPropFile {
 
-    public static String readConfigFile(String value) throws IOException {
+    public static String readConfigFile(String key) throws IOException {
 
         FileReader fr =new FileReader( "src/main/java/Utility/global.properties");
         Properties pr = new Properties();
         pr.load(fr);
-        return pr.getProperty(value);
+        return pr.getProperty(key);
     }
 }
