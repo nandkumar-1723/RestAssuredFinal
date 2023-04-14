@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="rest assured" />
+    <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="rest assured">
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MorningBatch_Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/D_Attachment/AddAttchament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/D_Attachment/AddAttchament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/F_JsonObjectConcept/GetRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/F_JsonObjectConcept/GetRequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/D_Attachment/AddAttchament.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/D_Attachment/AddAttchament.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,9 +87,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml">
+  <component name="RunManager" selected="Application.MorningBatch_Practice">
     <configuration name="Morning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Morning" />
+      <module name="RestAssuredFramework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorningBatch_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorningBatch_Practice" />
       <module name="RestAssuredFramework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,23 +119,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="D_Attachment" />
       <option name="MAIN_CLASS_NAME" value="D_Attachment.AddAttchament" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bug" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="G_PropertiesFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="G_PropertiesFile" />
-      <option name="MAIN_CLASS_NAME" value="G_PropertiesFile.Bug" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -153,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" />
+        <item itemvalue="Application.MorningBatch_Practice" />
         <item itemvalue="TestNG.AddAttchament" />
+        <item itemvalue="TestNG./home/nandkumar/Documents/Arise_RestAssured/RestAssuredFinal/TestNG.xml" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.Morning" />
-        <item itemvalue="TestNG.Bug" />
       </list>
     </recent_temporary>
   </component>

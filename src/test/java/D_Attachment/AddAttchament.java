@@ -50,9 +50,9 @@ public class AddAttchament {
         File file = new File("src/main/java/Documents/ariseLOGO.png");
 
         Response response = given().contentType(ContentType.MULTIPART)
-                .headers(header)
+                .headers(header).pathParam("issueId",issueId)
                 .multiPart("file", file)
-                .when().post("/rest/api/2/issue/"+issueId+"/attachments").
+                .when().post("/rest/api/2/issue/{issueId}/attachments").
                 then().extract().response();
 
         System.out.println(response.getStatusCode());

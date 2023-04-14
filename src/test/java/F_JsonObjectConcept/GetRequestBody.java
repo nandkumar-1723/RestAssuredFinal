@@ -10,7 +10,7 @@ import java.io.*;
  */
 public class GetRequestBody {
 
-    public static void main(String[] args) throws IOException, ParseException {
+    public static void main(String[] args) throws Exception {
 
         FileReader fr = new FileReader("src/main/java/inputJson/practiceRequestBody.json");
         JSONParser jp = new JSONParser();
@@ -34,7 +34,7 @@ public class GetRequestBody {
         int studentList = js.getJSONArray("students").length();
         System.out.println(studentList);
 
-        // find value of student id when we dont know the index
+        //Case-1 find value of student id when we dont know the index
         for (int i = 0; i <= js.getJSONArray("students").length(); i++) {
             String students = js.getJSONArray("students").getJSONObject(i).get("name").toString();
             if (students.equals("Student-2")){
@@ -42,6 +42,24 @@ public class GetRequestBody {
                 System.out.println(id);
                 break;
             }
+        }
+
+
+        //Case-2 find value of student id when we dont know the index and name is not present in list
+        boolean isExist =false;
+        for (int i = 0; i <=js.getJSONArray("students").length()-1 ; i++) {
+
+            String name = js.getJSONArray("students").getJSONObject(i).get("name").toString();
+
+            if (name.equals("Student-2")){
+                String id = js.getJSONArray("students").getJSONObject(i).get("id").toString();
+                System.out.println(id);
+                isExist=true;
+                break;
+            }
+        }
+        if (isExist==false){
+            throw new Exception("we was expecting students-4 but not found in the list");
         }
     }
 }
