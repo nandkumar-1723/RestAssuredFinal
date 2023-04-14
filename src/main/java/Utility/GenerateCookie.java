@@ -26,7 +26,7 @@ public class GenerateCookie {
 
         Response response = given()
                 .contentType(ContentType.JSON)
-                .body(requestBody)
+                .body(jsUpdate.toString())
                 .when().post("/rest/auth/1/session")
                 .then().extract().response();
 

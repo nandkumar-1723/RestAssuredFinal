@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7d8ccf-8bdb-4437-b6e7-86b4ae6c7f00" name="Changes" comment="rest assured">
-      <change afterPath="$PROJECT_DIR$/target/test-classes/MorningBatch_Practice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/D_Attachment/AddAttchament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/D_Attachment/AddAttchament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/F_JsonObjectConcept/GetRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/F_JsonObjectConcept/GetRequestBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/D_Attachment/AddAttchament.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/D_Attachment/AddAttchament.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utility/GenerateCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utility/GenerateCookie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
